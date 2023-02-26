@@ -1,1 +1,1 @@
-Coding problems and challenges solved on various coding websites
+Coding problems solved on various websites
